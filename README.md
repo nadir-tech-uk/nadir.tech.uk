@@ -17,7 +17,8 @@ I am an IT professional with a strong background in **software development**, **
 
 I am currently focused on transitioning deeper into **IT Support and Cloud Computing**, building a solid foundation with certifications, hands-on labs, and real-world documentation.
 
-📍 Location: Cardiff, Wales, UK
+📍 Location: Wales, UK
+
 💼 Eligible to work in the UK (no sponsorship required)
 
 ---
