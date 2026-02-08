@@ -7,9 +7,11 @@ This document tracks all completed, in-progress, and planned certifications and 
 ## ✅ Completed Certifications
 
 - **Cybersecurity Essentials** – Cisco (2021)
-- **Git Going Fast** – Udemy (2022)
+- **Git Going Fast: One Hour Git Crash Course** – Udemy (2022)
 - **Visual Basic Developer Internship** – LCC Computer Education (2015) – Grade A
 - **ASP.NET Developer Internship** – LCC Computer Education (2015–2016) – Grade A+
+- **ASP.NET Project** – LCC Computer Education, Kerala, India - 6 months (2015–2016) – Grade A+
+- **Android Internship** – Quest Innovative Solutions, Kerala, India - 6 months (2015–2016) – Grade A+
 
 ---
 
