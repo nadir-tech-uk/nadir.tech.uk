@@ -1,49 +1,84 @@
-<!-- Header | START -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&duration=1500&pause=2000&color=29FB00&center=true&vCenter=true&width=500&lines=Howdy,+it's+Nadir;+Welcome+to+my+GitHub+Profile;"/>
-  <br>
-  <!-- <img alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-banner.gif"/> -->
-</div>
-<!-- Header | END -->
+# About Me – Nadirsha Thykkoottathil
 
-<!-- About Me | START -->
-[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/about-me.gif"/>](https://github.com/lonewolfnadhu)
+Welcome to my personal GitHub repository.
 
-## About Me
-I am an IT professional actively seeking entry-level IT Support, Service Desk Analyst, or Application Support roles, with a clear, structured career path toward cloud, systems, and infrastructure technologies.
+This repository is my **single source of truth** for everything related to my professional journey, learning, and future career plans. Instead of scattered documents, folders, and notes, I maintain everything here in a structured, version-controlled way.
 
-I bring 5+ years of professional experience as a Software & Mobile Application Developer (Android, React Native, iOS), providing a strong technical foundation in troubleshooting, debugging, systems thinking, and root-cause analysis—skills that transfer naturally into technical support, service desk, and application support environments.
+---
 
-Over the past year, I have been intentionally re-skilling and building hands-on capability in technologies essential to modern IT support teams, including:
-* IT Support & Service Desk operations (incidents, requests, SLAs, escalation) 🛠️
-* Windows administration & Active Directory (lab-based) 🔑
-* Linux fundamentals & Bash scripting 🐧
-* Python programming & automation 🐍
-* SQL (MySQL & PostgreSQL) 🗄️
-* Cloud fundamentals (Azure & AWS) ☁️
+## 👋 Who I Am
 
-Alongside my technical journey, my professional experience in UK healthcare and support roles has strengthened my customer communication, incident handling, documentation, teamwork, and ability to remain calm under pressure—all critical qualities for front-line IT Support and Service Desk roles.
+I am a **Software Engineer & IT Professional** with hands-on experience in:
 
-I am currently focused on securing a first UK-based IT Support or Service Desk position, where I can contribute from day one, continue learning within a structured environment, and progress steadily into cloud, systems administration, and security-focused roles over time.
+* Mobile application development (iOS, Android, React Native, Flutter)
+* Backend and web technologies
+* IT support and systems administration
+* Healthcare and support roles in the UK
 
-📍 UK-based (Wales)
+I hold an **MSc in Advanced Computer Science** from Cardiff Metropolitan University and have worked across both **India and the UK**, adapting to different industries, teams, and responsibilities.
 
-✅ Eligible to work in the UK — no sponsorship required
-<!-- About Me | END -->
+I am currently transitioning my career towards **IT Support and Cloud Computing**, with a strong interest in **Microsoft Azure and AWS**.
 
-<!-- Connect | START -->
-[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
+---
 
-## Connect with me
+## 🎯 Purpose of This Repository
 
+This repository exists to:
 
-[<img height="200" width="200" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir.jpg">](https://github.com/lonewolfnadhu)
+* Track my **career growth over time**
+* Maintain **multiple CV versions** for different roles
+* Organise my **education, experience, and certifications**
+* Document **projects and learning notes**
+* Track **job applications and target roles**
+* Plan my **future career roadmap**
 
-[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
-[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.svg"/>](https://www.linkedin.com/in/nadir-tech-uk/)
-[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/nadir-tech-uk)
+Think of this as my **personal career operating system**.
 
-Made with ❤️
+---
 
-Copyright © [Nadir](https://www.linkedin.com/in/nadir-tech-uk/)
-<!-- Connect | END -->
+## 🗂 Repository Structure
+
+```text
+about-me/
+│
+├── profile/            # Bio, personal statement, goals
+├── education/          # Academic background and transcripts
+├── experience/         # Work experience (software, IT, healthcare)
+├── certifications/     # Completed & in-progress certifications
+├── skills/             # Technical, soft skills, tools
+├── projects/           # Professional, academic & personal projects
+├── cv/                 # Master CV and role-specific CVs
+├── job-applications/   # Applied jobs, target roles, cover letters
+├── learning/           # Learning roadmap and notes
+├── achievements/       # Key achievements and milestones
+├── future/             # Career vision, cloud roadmap, long-term plans
+└── archive/            # Old or deprecated content
+```
+
+---
+
+## 🧠 How I Use This Repo
+
+* Markdown files for clarity and portability
+* Git history to track **progress and growth**
+* Easy conversion of CVs to PDF when applying for jobs
+* Continuous updates as I learn, work, and evolve
+
+---
+
+## 🚀 Current Focus
+
+* IT Support & Entry-Level Cloud roles
+* Microsoft Azure Fundamentals (AZ-900)
+* Strengthening Python, SQL, and networking fundamentals
+* Building a long-term cloud career roadmap
+
+---
+
+## 📌 Note
+
+Some content may remain private or high-level when this repository is public. Detailed documents such as CVs and job application tracking are maintained carefully to protect sensitive information.
+
+---
+
+Thank you for visiting. This repository represents not just where I am today, but where I am heading.
