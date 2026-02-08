@@ -35,17 +35,17 @@ I am currently focused on transitioning deeper into **IT Support and Cloud Compu
 
 This repository is intentionally structured to act as a **single source of truth** for my career.
 
-```
-📁 profile/            → About me, career summary, goals
-📁 skills/             → Technical & soft skills
-📁 experience/         → Professional work history
-📁 education/          → Academic background and qualifications
-📁 projects/           → Key professional & academic projects
-📁 certifications/     → Completed, in-progress & planned certs
-📁 learning/           → Learning roadmap & notes
-📁 cv/                 → Role-specific CVs
-📁 job-applications/   → Target roles & application tracking
-```
+📁 **Career Documentation**
+
+- 📄 [Profile](career/profile/)
+- 🧠 [Skills](career/skills/)
+- 💼 [Experience](career/experience/)
+- 🎓 [Education](career/education/)
+- 🛠️ [Projects](career/projects/)
+- 📜 [Certifications](career/certifications/)
+- 📚 [Learning Roadmap](career/learning/)
+- 📄 [CVs](career/cv/)
+- 🎯 [Job Applications](career/job-applications/)
 
 ---
 
