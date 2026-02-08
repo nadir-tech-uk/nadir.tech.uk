@@ -1,8 +1,26 @@
-# Software Engineering Experience
+# Master Experience
 
 This document summarises my professional software engineering experience, focusing on responsibilities, technologies, and impact across projects.
 
 ---
+
+Parkside House Residential Home – Penarth, UK 
+Care Assistant | Oct 2024 – Present | £12.80/hr - Supported residents with digital technology and IT troubleshooting. - Planned and organised daily tasks for smooth delivery of care plans. - Identified and resolved minor technical issues in digital systems. 
+
+INNOVATE TRUST – Cardiff, UK 
+Support Worker | May 2023 – Sep 2024 | £12/hr - Promoted digital inclusion and independence through structured activities. - Maintained secure and accurate records of service users. - Applied problem-solving and risk assessment to maintain service quality. 
+
+GREGGS – Cardiff, UK 
+Crew Member | Mar 2023 – Dec 2023 | £10.60/hr - Delivered high-quality customer service; monitored operations and health & safety. - Assisted with stock management, equipment handling, and problem-solving operational issues. 
+
+WE CARE YOU LTD – Cardiff, UK 
+Healthcare Assistant | Feb 2022 – Mar 2023 | £9.37/hr - Organised daily tasks and completed care plans accurately. - Supported adoption of digital systems and workflow improvements. 
+
+McDonald's – Cardiff Bay, UK 
+Crew Member | Nov 2021 – Feb 2022 | £9/hr - Provided professional customer service and operational support. - Assisted with stock and equipment handling, following procedures. 
+
+MindCoopers – Kochi, India 
+Software Engineer | Nov 2018 – Mar 2021 - Developed iOS apps with chat, geolocation, and notifications. - Managed Firebase integrations, CI/CD pipelines, and code reviews. Key Projects: The Daily Shifts, Equipo Engage & Care, The Vineyards, Venlog 
 
 ## Software Engineer – MindCoopers
 **Nov 2018 – Mar 2022**
