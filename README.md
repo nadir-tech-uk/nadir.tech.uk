@@ -85,6 +85,6 @@ This repository reflects **how I work**, not just what I claim.
 ## 📫 Get in Touch
 
 * 📧 Email: [nadir.tech.uk@gmail.com](mailto:nadir.tech.uk@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/lonewolfnadhu
+* 💼 LinkedIn: [nadir-tech-uk](https://www.linkedin.com/in/nadir-tech-uk)
 
 Thanks for visiting — feel free to explore 🙌
