@@ -54,6 +54,7 @@ This repository is intentionally structured to act as a **single source of truth
 📁 profile/            → About me, career summary, goals
 📁 skills/             → Technical & soft skills
 📁 experience/         → Professional work history
+📁 education/          → Academic background and qualifications
 📁 projects/           → Key professional & academic projects
 📁 certifications/     → Completed, in-progress & planned certs
 📁 learning/           → Learning roadmap & notes
