@@ -30,22 +30,6 @@ I am currently focused on transitioning deeper into **IT Support and Cloud Compu
 
 ---
 
-## 🧭 How to Navigate This Repository (For Recruiters)
-
-If you are a recruiter or hiring manager, here is a quick guide to explore the most relevant sections efficiently:
-
-* **Start here:** `profile/` – Career summary, background, and goals
-* **Role alignment:** `skills/` – Technical and soft skills mapped to roles
-* **Real experience:** `experience/` – Professional work history (IT, software, care)
-* **Proof of work:** `projects/` – Key professional and academic projects
-* **Credentials:** `certifications/` – Completed and in-progress certifications
-* **Current focus:** `learning/` – Learning roadmap and upskilling strategy
-* **CVs:** `cv/` – Role-specific CVs with guidance on usage
-
-This structure is designed to provide **clarity in under 5 minutes** while allowing deeper exploration if needed.
-
----
-
 ## 🧠 What This Repository Contains
 
 This repository is intentionally structured to act as a **single source of truth** for my career.
