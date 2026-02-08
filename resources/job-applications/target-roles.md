@@ -13,6 +13,7 @@ These roles align with my current skills, experience, and certifications:
 - Service Desk Analyst
 - IT Helpdesk Engineer
 - Junior IT Technician
+- Application Support
 
 ---
 
@@ -21,6 +22,7 @@ These roles align with my current skills, experience, and certifications:
 These roles become realistic as I gain more hands-on cloud experience and certifications:
 
 - Cloud Support Engineer
+- Cloud Security Engineer
 - Junior Cloud Engineer
 - Infrastructure Support Engineer
 - Azure Support Associate
