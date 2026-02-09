@@ -17,8 +17,9 @@ This document provides an exhaustive technical breakdown of my professional and 
 * **Key Achievements:**
     * Successfully delivered a "from-scratch" build that reduced manual reporting time for property managers by providing instant access to complex financial data.
     * Maintained 99.9% crash-free sessions during the high-stakes migration phase.
-* **Stack:** React Native, Swift, Objective-C, Redux, Firebase, RESTful APIs, Xcode, Postman, Terminal, Swift, Objective-C, Xcode, React Native, Redux, Async, RESTful JSON APIs (Alamofire/Fetch), Firebase, Postman, VS Code.
-* **Reference:** [Manage America](https://www.manageamerica.com)
+* **Stack:** React Native, Swift, Objective-C, Redux, Firebase, RESTful APIs, Xcode, Postman, Terminal, Swift, Objective-C, Xcode, React Native, Redux, Async, RESTful JSON APIs (Alamofire/Fetch), Firebase, Postman, VS Code, iOS, Xcode, Swift, Objective-C, RESTful Json APIs using Alamofire, Firebase, Various SDK Integrations, Third party pods and so on, React Native, VS Code, Fetch, Postman, Redux, Async, Terminal.
+* **Reference:** 
+[Manage America Website](https://www.manageamerica.com)
 
 ---
 
@@ -33,8 +34,13 @@ This document provides an exhaustive technical breakdown of my professional and 
 * **Key Achievements:**
     * Enabled remote patient monitoring, significantly reducing in-person visit requirements for chronic care patients.
     * Managed the end-to-end lifecycle: Designing, Development, Testing, Debugging, and Publishing to both App Store and Play Store.
-* **Stack:** Swift, Java, Android Studio, WebRTC, Firebase, Retrofit, Alamofire, GitHub, Postman.
-* **Reference:** [Equipo.io](https://equipo.io)
+* **Stack:** Swift, Java, Android Studio, WebRTC, Firebase, Retrofit, Alamofire, GitHub, Postman, Swift, Objective-C, RESTful Json APIs using Alamofire, Firebase, Various SDK Integrations, third party pods, iOS, Xcode, Android, Android Studio, Java, RESTful Json APIs using Retrofit, GitHub, Postman, Swift, Objective-C, RESTful Json APIs using Alamofire, Firebase, Various SDK Integrations, third party pods, iOS, Xcode, Android, Android Studio, Java, RESTful Json APIs using Retrofit, GitHub, and Postman, iOS, Xcode, Swift, Objective-C, RESTful Json APIs using Alamofire, Firebase, Various SDK Integrations, Third party pods etc. Android, Android Studio, Java, RESTful Json APIs using Retrofit, Third party libraries.
+* **Reference:** 
+[Equipo Website](https://equipo.io)
+[Equipo Engage iOS App](https://apps.apple.com/us/app/equipo-engage)
+[Equipo Engage Android App](https://play.google.com/store/apps/details?id=com.equipo_engage)
+[Equipo Care App](https://apps.apple.com/us/app/equipo-care)
+[Equipo Care Android App](https://play.google.com/store/apps/details?id=com.physician.equipocare)
 
 ---
 
@@ -68,8 +74,10 @@ This document provides an exhaustive technical breakdown of my professional and 
 * **Technical Deep-Dive:**
     * **User Experience:** Focused on high-fidelity animations and a "calm" UI architecture to align with mindfulness principles.
     * **Retention Tools:** Implemented a sophisticated Local Notification engine that uses personalized triggers based on user behavior patterns.
-* **Stack:** Swift, Objective-C, Xcode, Firebase, Alamofire, Third-party Pods.
-* **Reference:** [The Daily Shifts](https://www.thedailshifts.com)
+* **Stack:** Swift, Objective-C, Xcode, Firebase, Alamofire, Third-party Pods, Swift, Objective-C, RESTful Json APIs using Alamofire, Firebase, Various SDK Integrations, Third party pods, iOS, Xcode, GitHub, and Postman.
+* **Reference:**
+[The Daily Shifts](https://www.thedailshifts.com)
+[Daily Shifts iOS App](https://apps.apple.com/us/app/the-daily-shifts)
 
 ---
 
@@ -81,7 +89,9 @@ This document provides an exhaustive technical breakdown of my professional and 
     * **Fintech Integration:** Implemented **Stripe** and **Braintree** payment gateways for subscription-based access to premium coaching content.
     * **Geo-Tracking:** Used Map Integrations to track running routes and provide real-time pace feedback.
 * **Stack:** Java, Android Studio, Volley, Spotify SDK, Map Integrations, Stripe, SMS Gateways.
-* **Reference:** [Jiwok](https://www.jiwok.com)
+* **Reference:** 
+[Jiwok](https://www.jiwok.com)
+[Android App](https://play.google.com/store/apps/details?id=com.reubro.jiwokcoach)
 
 ---
 
