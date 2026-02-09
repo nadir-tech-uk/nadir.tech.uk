@@ -1,57 +1,100 @@
-# CV Repository Guide
+# Master Curriculum Vitae
 
-This folder contains different versions of my CV, each tailored for specific roles and career paths. The goal is to ensure clarity, relevance, and consistency across job applications.
-
----
-
-## 📄 Available CVs
-
-### 🖥️ IT Support / Entry-Level IT Roles
-**File:** `it-support-cv.pdf`
-
-Use this CV when applying for:
-- IT Support Technician
-- Service Desk Analyst
-- IT Support Analyst
-- Helpdesk / Desktop Support roles
-
-**Focus Areas:**
-- Troubleshooting and user support
-- Networking and system fundamentals
-- Customer service and communication
-- Certifications and in-progress learning
+## Nadirsha Thykkoottathil
+📍 Cardiff, Wales, UK  
+📧 nadir.tech.uk@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nadir-tech-uk/)
 
 ---
 
-### 👨‍💻 Software Engineering / Mobile Development Roles
-**File:** `software-engineer-cv.pdf`
-
-Use this CV when applying for:
-- Software Engineer
-- Mobile App Developer (iOS / Android / React Native)
-- Full Stack or Application Developer roles
-
-**Focus Areas:**
-- Professional project experience
-- Mobile and web technologies
-- End-to-end development and CI/CD
-- Team collaboration and delivery
+## 📄 Professional Summary
+Technology professional with a strong background in **software engineering**, **IT support**, and **healthcare support** roles across India and the UK. Experienced in mobile and cross-platform application development, system administration, and user-focused technical support. Currently transitioning into **IT Support and Cloud Computing**, with a focus on Microsoft Azure and AWS fundamentals.
 
 ---
 
-## 🔁 Maintenance Rules
+## 🛠 Core Skills
 
-- CVs are updated after:
-  - New certifications
-  - New roles or responsibilities
-  - Significant projects or achievements
-- Each CV is tailored before submission
-- File names clearly reflect the target role
+### Technical
+- **Programming:** Java, Swift, Objective-C, Dart, JavaScript, C#, PHP, Python (foundational), SQL
+- **Mobile:** Android, iOS, React Native, Flutter
+- **Web & Backend:** REST APIs, ASP.NET, PHP, HTML, CSS
+- **Databases:** MySQL, SQL Server, SQLite
+- **Cloud & Hosting:** Microsoft Azure (AZ-900 level), AWS (foundational), Firebase
+- **Tools:** Git, GitHub, GitLab, CI/CD fundamentals
+- **IT Operations:** Windows, macOS, Linux (basic), system troubleshooting, Active Directory
+
+### Soft Skills
+- Problem-solving & analytical thinking
+- Communication, teamwork, and customer-focused approach
+- Adaptability and continuous learning mindset
 
 ---
 
-## 📌 Notes
+## 💼 Professional Experience
 
-- This repository acts as the single source of truth
-- CV content is aligned with LinkedIn and GitHub documentation
-- Older CV versions may be archived for reference
+### Care Assistant – Parkside House Residential Home
+**Oct 2024 – Present**
+- Deliver person-centred care ensuring dignity, safety, and wellbeing.
+- Maintain accurate care records and follow safeguarding procedures.
+
+### Support Worker – Innovate Trust
+**May 2023 – Sep 2024**
+- Supported individuals with learning disabilities in daily living and community engagement.
+- Managed challenging situations calmly and professionally.
+
+### Healthcare Assistant – We Care You Ltd
+**Feb 2022 – Mar 2023**
+- Provided personal care and mobility support while ensuring compliance with care standards.
+
+### Software Engineer – MindCoopers
+**Nov 2018 – Mar 2022**
+- Developed and maintained iOS, Android, React Native, and Flutter applications.
+- Integrated REST APIs, Firebase services, and third-party SDKs.
+- Managed app store deployments and collaborated in Agile teams.
+
+### Software Developer / Project Trainer – Cogniz Info Tech
+**Oct 2016 – Oct 2018**
+- Built Android applications and PHP/MySQL admin panels.
+- Trained and mentored students and junior developers.
+
+### System Administrator – Cyber InfoTech
+**Duration: 1 Year**
+- Installed and maintained Windows systems and provided hardware/software support.
+- Managed user access and system documentation.
+
+---
+
+## 🎓 Education
+
+### MSc Advanced Computer Science
+**Cardiff Metropolitan University, UK** | 2021 – 2022 | **Merit**
+
+### Master of Computer Applications (MCA)
+**Mahatma Gandhi University, India** | 2014 – 2016
+
+### Bachelor of Computer Applications (BCA)
+**Mahatma Gandhi University, India** | 2011 – 2014
+
+---
+
+## 📜 Certifications
+
+### Completed
+- **Cisco Cybersecurity Essentials** – Cisco Networking Academy
+- **Git Going Fast** – Udemy
+- **IT Help Desk for Beginners** – LinkedIn Learning
+- **Networking Foundations: Networking Basics** – LinkedIn Learning
+
+### In Progress
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **Python & SQL Essential Training** – LinkedIn Learning
+- **Windows 10 Troubleshooting** – LinkedIn Learning
+
+---
+
+## 🎯 Career Objective
+To secure an **entry-level IT Support or Cloud Support role** where I can apply my technical background and continue growing into a cloud-focused engineering position.
+
+---
+
+*This master CV contains all experience and skills. Role-specific CVs are derived from this document.*
