@@ -74,6 +74,11 @@ Managed organizational IT infrastructure, focusing on system uptime, security, a
 * Delivers person-centered care while ensuring the highest standards of dignity and safety.
 * **Technical Impact:** Acts as a point of contact for resolving digital system issues and assisting residents with technology adoption.
 
+### **Care Assistant | Pontcanna House – Cardiff, UK**
+**Sep 2024 – Oct 2024**
+
+* Delivers person-centered care while ensuring the highest standards of dignity and safety.
+
 ### **Support Worker | Innovate Trust – Cardiff, UK**
 **May 2023 – Sep 2024**
 
