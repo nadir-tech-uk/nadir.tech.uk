@@ -1,75 +1,68 @@
-# IT Help Desk for Beginners
-**Instructor:** Robert McMillen (LinkedIn Learning)
+# Networking Foundations: Networking Basics
+**Course by Kevin Wallace (LinkedIn Learning)**
 
-This document contains key takeaways and troubleshooting workflows from the IT Help Desk for Beginners course. These notes serve as a quick reference for incident management and hardware/software troubleshooting.
-
----
-
-## 📝 Key Learnings & Concepts
-
-### 1. Incident Management
-* **Incident Tracking Tools:** Used to log, track, update, and close IT issues.
-* **Spiceworks:** A concept similar to GitHub but specifically for tracking and managing IT issues.
-* **SLA (Service Level Agreement):** Defines the required response and resolution times.
-* **Priority Levels:** Issues are categorized as Low, Medium, High, or Critical.
-* **Escalation:** Redirecting unresolved or reclassified issues to the specialized team.
-
-### 2. The Support Process
-* **Documentation (Critical):** Document every issue and resolution to build a Knowledge Base.
-* **Critical Thinking:** Always consider multiple ways to resolve an issue.
-* **Verify, Don't Assume:** Follow step-by-step verification.
+This repository contains my study notes and key takeaways from the Networking Foundations course. It covers the fundamental concepts of how data moves across the internet, addressing, hardware, and various networking models.
 
 ---
 
-## 🛡️ Security & Malware
+## 📝 Key Learnings
 
-### 🎣 Phishing Awareness
-Phishing occurs when users are tricked into clicking malicious links or sharing passwords.
-* **Common Sources:** Fake emails, gaming websites, and unauthorized USB drives.
+### 1. Internet & Network Connections
+* **Wired Connection (Ethernet):**
+    * **Connector:** RJ45
+    * **Cables:** Cat 5 / Cat 6 (Twisted pair cabling)
 
-### 🦠 Signs of Malware Infection
-* **System Performance:** Computer slows down, crashes, or won't shut down/restart.
-* **Browser Issues:** Default search engine or homepage changes; excessive pop-ups.
-* **Software:** Unable to remove programs; repeated error messages.
-* **Other:** Emails sent without user knowledge; rapid battery drain.
-* **Initial Check Tool:** **Task Manager** (Look for unknown processes or unusually high resource usage).
+### 2. Types of Networks
+| Type | Name | Scope & Examples |
+| :--- | :--- | :--- |
+| **PAN** | Personal Area Network | Very short range (Bluetooth mouse, keyboard, controllers) |
+| **LAN** | Local Area Network | Small geographic area (Home, small office) |
+| **CAN** | Campus Area Network | Covers a campus or group of buildings |
+| **MAN** | Metropolitan Area Network | Covers a city; high-speed connections between offices |
+| **WAN** | Wide Area Network | Large regions (countries/continents); e.g., the Internet |
+| **VPN** | Virtual Private Network | Secure connection tunnel over a WAN |
+
+### 3. Internet of Things (IoT)
+The interconnection of computing devices embedded in everyday objects, enabling them to send and receive data.
+* **Examples:** Smart doorbells, refrigerators, Smart TVs, Alexa/Smart assistants.
+
+### 4. Addressing
+#### MAC Address (Physical Address)
+* **48-bit address** assigned by the manufacturer.
+* Known as the "burned-in" address; unique to every device.
+
+#### IP Address (Logical Address)
+* **IPv4:** 32-bit address. Structure: `Network | Host`. (Example: `172.16.10.5`)
+* **IPv6:** 128-bit address. Structure: `Prefix | Host`. (Example: `23A0:201A:00B2:0000:0000:0400:0001/64`)
+
+### 5. Network Devices
+* **Ethernet Switch:** Connects devices within a LAN; uses MAC addresses to forward data.
+* **Router:** Connects different networks; uses IP addresses to route traffic.
+* **WAP (Wireless Access Point):** Allows wireless devices to connect to a wired network.
+
+### 6. Networking Models
+* **OSI Model (Open Systems Interconnection):** A conceptual 7-layer model (Physical, Data Link, Network, Transport, Session, Presentation, Application).
+* **TCP/IP Model:** The practical 4-layer model used on the internet today.
+
+### 7. Protocols & Services
+* **TCP (Transmission Control Protocol):** Connection-oriented, reliable delivery.
+* **UDP (User Datagram Protocol):** Connectionless, fast but "best-effort" delivery.
+* **DHCP:** Automatically assigns IP addresses.
+* **DNS:** Resolves domain names (e.g., google.com) to IP addresses.
+* **NAT:** Translates private IP addresses to a public IP.
+* **NTP:** Time synchronization across the network.
+* **QoS (Quality of Service):** Prioritizes important traffic like voice or video.
+
+### 8. Wireless Networks
+* **Ad Hoc:** No infrastructure; devices connect directly (e.g., AirDrop).
+* **Mesh Wireless:** Access points communicate with each other wirelessly to provide flexible coverage.
+
+### 9. Cloud Computing Models
+* **SaaS (Software as a Service):** Applications via browser (e.g., Google Workspace).
+* **IaaS (Infrastructure as a Service):** Raw computing resources, storage, and networking.
+* **PaaS (Platform as a Service):** Provides a platform including OS and hardware abstraction for developers.
 
 ---
 
-## 🧑‍💻 Common Help Desk Workflows
-
-### 🔐 Access & Troubleshooting
-- [ ] **Can't Log In:** Check Caps Lock, expired passwords, or locked accounts. 
-- [ ] **Shared Drive Access:** Ping the server, remap the network drive, and check permissions.
-- [ ] **Internet Connectivity:** Determine if it's one user or everyone. Check IP/DNS settings.
-- [ ] **Slow Performance:** Check Task Manager, remove temp files, and check disk space.
-
-### 🖥️ Hardware & Peripherals
-- [ ] **Printing Issues:** Check power, paper jams, and toner. Reinstall drivers if needed.
-- [ ] **Wireless Peripherals:** Check Bluetooth connectivity and replace batteries.
-- [ ] **Blue Screen (BSOD):** Identify the crash code, check for driver issues, and reboot.
-- [ ] **Power Issues:** Check connections, try a reset, or escalate for hardware repair.
-
----
-
-## 🖥️ Troubleshooting Tools (Windows)
-
-| Tool | Usage |
-| :--- | :--- |
-| **Event Viewer** | Filter 'System' logs to find hardware/software events. |
-| **Device Manager** | Enable/disable devices and update drivers. |
-| **Disk Management** | Manage storage, partitions, and disk health. |
-| **Task Manager** | Monitor real-time CPU, Memory, Disk, and Network usage. |
-| **Resource Monitor** | Detailed breakdown of system resource allocation. |
-
----
-
-## 🌐 Networking Basics (Command Line)
-* `ipconfig` / `ipconfig /all`: Check local IP configuration.
-* `ping [address]`: Test connectivity to a server or website.
-* `tracert [address]`: Identify the network path and find where a connection fails.
-
----
-
-## 🧠 Key Takeaway
-> "Strong IT support is about process, documentation, calm troubleshooting, and critical thinking — not just tools."
+## ✅ Personal Takeaway
+This course provided a strong foundation essential for IT Support, Cloud, and Cybersecurity roles. Understanding how data moves from physical cabling to software applications is the bedrock of IT.
