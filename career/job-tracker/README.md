@@ -1,55 +1,71 @@
-# Target Roles
+# 🚀 IT Career Search & Application Tracker
 
-This document defines the roles I am actively targeting. It helps maintain focus during job applications and ensures my learning and CVs align with market requirements.
-
----
-
-## 🎯 Primary Target Roles (Immediate Focus)
-
-These roles align with my current skills, experience, and certifications:
-
-- IT Support Technician
-- IT Support Analyst
-- Service Desk Analyst
-- IT Helpdesk Engineer
-- Junior IT Technician
-- Application Support
+This repository serves as a centralized hub for my job search strategy, target roles, and application progress.
 
 ---
 
-## ☁️ Secondary Target Roles (Short–Mid Term)
+## 🎯 Target Roles & Tiering Strategy
+*Consistency beats intensity.* I prioritize roles based on my current certifications and long-term cloud goals.
 
-These roles become realistic as I gain more hands-on cloud experience and certifications:
+### 🥇 Tier 1: Highest Chance (Apply Daily)
+These roles align with my current skills and offer immediate entry into the field:
+* **Application Support Engineer** / **Junior Application Support Analyst**
+* **IT Support Analyst** / **Service Desk Analyst**
+* **Helpdesk Analyst** / **1st Line Support**
+* **Junior Systems Engineer**
 
-- Cloud Support Engineer
-- Cloud Security Engineer
-- Junior Cloud Engineer
-- Infrastructure Support Engineer
-- Azure Support Associate
-- Cloud Operations Analyst
+### 🥈 Tier 2: Good Chance (Apply Selectively)
+Short-to-mid-term roles as cloud experience increases:
+* **Junior Cloud Support Associate** / **Cloud Support Engineer**
+* **Technical Support Engineer**
+* **Platform Support Analyst**
 
----
-
-## 🧭 Role Preferences
-
-- Entry-level to junior positions with clear learning pathways
-- Roles offering exposure to cloud platforms (Azure/AWS)
-- Structured IT environments with documentation and processes
-- Team-based support roles with mentorship opportunities
-
----
-
-## ❌ Roles Currently Not Targeted
-
-These roles are intentionally avoided for now to maintain focus:
-
-- Senior software engineering roles
-- Pure frontend/mobile-only development roles
-- Non-technical or unrelated positions
+### 🥉 Tier 3: Bridge Roles
+* **IT Support Technician** / **Desktop Support Engineer**
+* **Field Support Engineer**
+* **Technical Support Advisor (SaaS)**
 
 ---
 
-## 📌 Notes
+## 🔎 Search Channels (UK Focus)
+I monitor these platforms daily for new openings:
+* **General:** LinkedIn Jobs, Indeed, Reed
+* **Tech-Specific:** CWJobs, Totaljobs
+* **Niche:** Company career pages for FinTech, SaaS, and NHS suppliers
 
-- This list is reviewed and updated quarterly.
-- Role targeting may evolve as certifications and experience increase.
+---
+
+## 📋 Job Applications Tracker
+
+| Company | Role | Tier | Date Applied | Status | Follow-Up | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Example Corp | Service Desk Analyst | Tier 1 | 2024-05-20 | Applied | - | Using CV v1.2 |
+| CloudTech | Jr. Cloud Engineer | Tier 2 | 2024-05-21 | Interview | Sent | Great Azure focus |
+
+### 📌 Status Legend
+* **Applied** – Application submitted
+* **Shortlisted** – CV selected
+* **Interview** – Interview scheduled/completed
+* **Rejected** – Application unsuccessful
+* **Offer** – Job offer received
+
+---
+
+## 🧠 Reflection & Improvement
+*Record patterns to strengthen technical and soft skills.*
+
+- **Common Interview Questions:** - **Skill Gaps Identified:** - **Recruiter Feedback:** ---
+
+## 🔁 Review Routine
+* **Daily:** Update after every application.
+* **Weekly:** Review for follow-ups (over 7 days).
+* **Monthly:** Reflect on progress and strategy.
+* **Quarterly:** Update target roles as certifications increase.
+
+---
+
+## ❌ Current Non-Targets
+To maintain focus, the following roles are intentionally avoided:
+* Senior Software Engineering
+* Pure Frontend/Mobile Development
+* Non-technical positions
