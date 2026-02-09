@@ -6,43 +6,42 @@ My strategy focuses on "job-ready" skills—prioritizing practical knowledge and
 
 ---
 
-## ✅ Completed Certifications & Courses
-*Verified achievements with durations and academic performance where applicable.*
+## ✅ Completed Certifications & Courses (Technical)
+*Verified technical achievements with academic performance and core focus areas.*
 
 ### **Systems, Networking & Troubleshooting**
 * **Windows 11 Essential Training** – Nick Brazzi (COMPLETED ✅)
-  - **Focus:** Managing user permissions, system configuration, and OS-level troubleshooting.
+  - **Focus:** User account management, file system permissions, and OS optimization.
 * **Learning Linux Command Line** – Scott Simpson (COMPLETED ✅)
-  - **Focus:** CLI mastery (ls, cd, cat, grep, ps), file permissions, and system log analysis.
+  - **Focus:** Command-line proficiency, shell scripting basics, and system monitoring.
 * **Networking Foundations: Networking Basics** – Kevin Wallace (COMPLETED ✅)
-  - **Focus:** IP addressing, DNS, DHCP, and Port/Firewall management.
+  - **Focus:** OSI Model, TCP/IP, DNS/DHCP, and troubleshooting connectivity issues.
 * **IT Help Desk for Beginners** – Robert McMillen (COMPLETED ✅)
-  - **Focus:** Incident vs. Request, Ticket Lifecycles, SLAs, and Escalation processes.
+  - **Focus:** Service Desk methodology, ticketing systems, and end-user communication.
 
 ### **Automation & Data**
 * **Python Essential Training** – LinkedIn Learning (COMPLETED ✅)
-  - **Focus:** Core programming logic and scripting for task automation.
+  - **Focus:** Automating manual tasks and understanding object-oriented programming.
 * **SQL Essential Training** – LinkedIn Learning (COMPLETED ✅)
-  - **Focus:** Database management, querying, and data integrity.
+  - **Focus:** Relational database design, complex queries, and data manipulation.
 
 ### **Cybersecurity & Version Control**
 * **Cybersecurity Essentials** – Cisco (2021)
-  - **Focus:** Cybersecurity fundamentals, threats, vulnerabilities, risk management, basic security operations, foundational security principles and threat mitigation.
+  - **Focus:** Identifying vulnerabilities, encryption basics, and network security protocols.
 * **Git Going Fast** – Udemy (2022)
-  - **Focus:** Version control, branching strategies, collaboration via GitHub, practical version control using Git, including branching, merging, and collaboration workflows.
+  - **Focus:** Repository management, merge conflict resolution, and CI/CD foundations.
 
 ### **Technical Internships & Projects**
-* **Android Internship** – Quest Innovative Solutions, Kerala, India (2015–2016)
+* **Android Internship** – Quest Innovative Solutions, India (2015–2016)
   - **Duration:** 6 Months | **Grade: A+**
-  - **Focus:** Mobile application development, Android SDK fundamentals, real-world projects, and NFC integration.
-* **ASP.NET Project** – LCC Computer Education, Kerala, India (2015–2016)
+  - **Focus:** Full lifecycle of mobile app development, UI/UX implementation, and Android SDK debugging.
+* **ASP.NET Project** – LCC Computer Education, India (2015–2016)
   - **Duration:** 6 Months | **Grade: A+**
-  - **Focus:** Web application development using C# , SQL Server, and the .NET framework.
-  - **Project:** EDUSAT – Kids Zone
+  - **Focus:** Developing scalable web applications, C# backend logic, and database integration.
 * **Visual Basic Developer Internship** – LCC Computer Education (2015)
   - **Grade: A**
-  - **Focus:** Legacy system support, Visual Basic 6.0 logic, and SQL Server.
- 
+  - **Focus:** Legacy system maintenance, procedural programming, and logic troubleshooting.
+
 ---
 
 ## ⏳ In Progress (Active Learning)
@@ -57,6 +56,8 @@ My strategy focuses on "job-ready" skills—prioritizing practical knowledge and
 ## 🗓️ Planned & Long-Term Mastery Goals
 *My strategic roadmap to becoming a Cloud & DevOps Professional.*
 
+
+
 ### **Phase 1: UK IT Support Market Entry**
 * **Microsoft 365 Fundamentals (MS-900)**: Modern workplace administration.
 * **Windows Server & Active Directory**: User management and Group Policy (GPO) application.
@@ -70,6 +71,35 @@ My strategy focuses on "job-ready" skills—prioritizing practical knowledge and
 * **Infrastructure as Code (IaC)**: Mastering Terraform and Ansible.
 * **CI/CD Pipelines**: Automating delivery with GitHub Actions and Jenkins.
 * **Containerization**: Leveraging my dev background with Docker and Kubernetes (K8s).
+
+---
+
+## 🛡️ Professional Compliance & Sector-Specific Training
+*Showcasing high-stakes responsibility, regulatory adherence, and documentation skills.*
+
+### **Social Care Wales**
+* **Principles and Values Award (Adult)**
+  - **Focus:** Professional ethics, confidentiality, and person-centered service delivery.
+* **All Wales Induction Framework (AWIF): Modules 1, 3, 5, 6, & 7**
+  - **Focus:** Statutory requirements, professional development, and safeguarding protocols.
+
+### **Welfare Academy & Innovate Trust**
+* **The Care Certificate & Level 2 Mandatory Training**
+  - **Focus:** Meeting national standards for safety, communication, and privacy.
+* **Report Writing & Recording**
+  - **Focus:** Precise, objective documentation and incident reporting—directly applicable to IT ticketing.
+* **GDPR for Care Workers**
+  - **Focus:** Strict data protection, handling sensitive information, and privacy law compliance.
+* **Mental Health Awareness & PBS Awareness**
+  - **Focus:** De-escalation techniques, empathy, and supporting diverse user needs under pressure.
+
+### **Pontcanna House (Health & Safety Excellence)**
+* **Risk Assessment & Health and Safety**
+  - **Focus:** Identifying environmental hazards and implementing mitigation strategies.
+* **Infection Control & First Aid Awareness**
+  - **Focus:** Emergency response procedures and maintaining a secure, clean workspace.
+* **Moving & Assisting (Practical & Assessment)**
+  - **Focus:** Physical safety protocols and equipment handling—transferable to hardware/server maintenance.
 
 ---
 [⬅️ Back to Main README](../../README.md)
