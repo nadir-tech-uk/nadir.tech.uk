@@ -5,9 +5,9 @@ This section outlines my formal education and academic background, forming the f
 ---
 
 ## 🎓 MSc Advanced Computer Science
-**Cardiff Metropolitan University, Cardiff, UK**
-**Duration:** 2021 – 2022
-**Result:** Merit
+- **Cardiff Metropolitan University, Cardiff, UK**
+- **Duration:** 2021 – 2022
+- **Result:** Merit
 
 ### Key Areas of Study
 - Advanced Software Engineering
@@ -19,9 +19,9 @@ This section outlines my formal education and academic background, forming the f
 ---
 
 ## 🎓 Master of Computer Applications (MCA)
-**MES-AIMAT, Mahatma Gandhi University, India** 
-**Duration:** 2014 – 2016  
-**Result:** Second Class
+- **MES-AIMAT, Mahatma Gandhi University, India** 
+- **Duration:** 2014 – 2016  
+- **Result:** Second Class
 
 ### Highlights
 - Strong foundation in programming and application development
@@ -30,8 +30,9 @@ This section outlines my formal education and academic background, forming the f
 ---
 
 ## 🎓 Bachelor of Computer Applications (BCA)
-**Jai Bharath Arts & Science College, Mahatma Gandhi University, India** **Duration:** 2011 – 2014  
-**Result:** C+ (CGPA 2.16)
+- **Jai Bharath Arts & Science College, Mahatma Gandhi University, India**
+- **Duration:** 2011 – 2014  
+- **Result:** C+ (CGPA 2.16)
 
 ### Highlights
 - Fundamentals of computer science and programming
@@ -40,14 +41,16 @@ This section outlines my formal education and academic background, forming the f
 ---
 
 ## 🏫 Higher Secondary Education (CBSE)
-**Jama-Ath Senior Secondary School, India** **Year:** 2011  
-**Result:** 56%
+- **Jama-Ath Senior Secondary School, India**
+- **Year:** 2011  
+- **Result:** 56%
 
 ---
 
 ## 🏫 Matriculation (CBSE)
-**Jama-Ath Residential Public School, India** **Year:** 2009  
-**Result:** 74%
+- **Jama-Ath Residential Public School, India**
+- **Year:** 2009  
+- **Result:** 74%
 
 ---
 
