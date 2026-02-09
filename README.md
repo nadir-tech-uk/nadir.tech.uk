@@ -1,91 +1,58 @@
+# 👋 Hi, I'm Nadirsha Thykkoottathil
+### IT Professional | Software Engineer Transitioning to Cloud & IT Support
+
 ![Location](https://img.shields.io/badge/Location-Cardiff%2C%20UK-blue?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure%20AZ--900-In%20Progress-informational?style=flat-square)
 ![Focus](https://img.shields.io/badge/Career%20Focus-IT%20Support%20%7C%20Cloud-lightgrey?style=flat-square)
 
-# 👋 Hi, I’m Nadirsha Thykkoottathil
+---
 
-Welcome to my personal career repository. This GitHub repository acts as a **living knowledge base** that documents my professional journey, skills, experience, learning, and future goals.
+## 🚀 Professional Overview
+I am an experienced IT professional with a **5+ year background in Software Engineering and Mobile Development** (iOS, Android, React Native). I am currently leveraging my deep technical foundation in troubleshooting and systems thinking to transition into **IT Support and Cloud Engineering**.
 
-It is designed to be transparent, structured, and continuously evolving — reflecting how I learn, work, and grow in the tech industry.
+Based in **Cardiff, UK**, I am eligible to work without sponsorship and am actively seeking entry-level IT Support, Service Desk, or Junior Cloud Support roles.
 
 ---
 
-## 🚀 About Me
+## 🧠 Single Source of Truth (Repo Map)
+This repository is my **Career Operating System**. It tracks my professional growth, learning progress, and documentation in a centralized, transparent way.
 
-I am an IT professional with a strong background in **software development**, **IT support**, and **cloud fundamentals**. I have hands-on experience across mobile application development, system support, customer-facing roles, and healthcare environments.
-
-I am currently focused on transitioning deeper into **IT Support and Cloud Computing**, building a solid foundation with certifications, hands-on labs, and real-world documentation.
-
-📍 Location: Wales, UK
-
-💼 Eligible to work in the UK (no sponsorship required)
-
----
-
-## 🎯 Career Focus
-
-* Entry-Level IT Support / Service Desk roles
-* Junior Cloud / Cloud Support roles (Azure-focused)
-* Continuous learning and practical problem-solving
+### 📁 [Career Documentation](career/)
+* 📂 **[Certifications](career/certifications/)** – Verified credentials and active study tracks (AZ-900, AWS).
+* 📂 **[CV](career/cv/)** – My Master CV and role-specific versions.
+* 📂 **[Education](career/education/)** – MSc details and academic history.
+* 📂 **[Experience](career/experience/)** – Deep dives into my Engineering and Healthcare Support roles.
+* 📂 **[Job-Tracker](career/job-tracker/)** – Active application tracking and interview logs.
+* 📂 **[Learning](career/learning/)** – Technical roadmap and study notes for Cloud & Networking.
+* 📂 **[Projects](career/projects/)** – Featured work, including mobile apps and cloud labs.
+* 📂 **[Skills](career/skills/)** – Comprehensive matrix of Technical, Soft, and Tool-based skills.
 
 ---
 
-## 🧠 What This Repository Contains
-
-This repository is intentionally structured to act as a **single source of truth** for my career.
-
-📁 **Career Documentation**
-
-- 📄 [Profile](career/profile/)
-- 🧠 [Skills](career/skills/)
-- 💼 [Experience](career/experience/)
-- 🎓 [Education](career/education/)
-- 🛠️ [Projects](career/projects/)
-- 📜 [Certifications](career/certifications/)
-- 📚 [Learning Roadmap](career/learning/)
-- 📄 [CVs](career/cv/)
-- 🎯 [Job Applications](career/job-applications/)
+## 🛠️ Technical Expertise & Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud & IT** | Azure (AZ-900), Active Directory, Networking Fundamentals, ITIL |
+| **Development** | Swift, Java, Kotlin, React Native, JavaScript, C#, PHP |
+| **Tools & OS** | Git/GitHub, CI/CD, Postman, Windows/Linux, VS Code, Xcode |
+| **Data & Scripting** | Python, SQL (MySQL, PostgreSQL), Bash |
 
 ---
 
-## 🛠️ Core Skills Snapshot
-
-* **IT Support:** Troubleshooting, documentation, user support, networking basics
-* **Cloud:** Azure fundamentals, Firebase, cloud concepts
-* **Development:** iOS, Android, React Native, Flutter, C#, PHP, JavaScript
-* **Tools:** Git, GitHub, CI/CD, VS Code, Xcode, Android Studio
-* **Soft Skills:** Communication, empathy, teamwork, adaptability
+## 🎯 Current Learning Path
+* **Targeting:** Microsoft Azure Fundamentals (AZ-900).
+* **Strengthening:** Windows Server administration and Python for Automation.
+* **Next Up:** AWS Certified Cloud Practitioner.
 
 ---
 
-## 📚 Learning & Certifications
+## 🤝 Connect With Me
+I built this repository to demonstrate my commitment to continuous learning and technical transparency. If you are a recruiter or a fellow engineer, I'd love to connect!
 
-* Microsoft Azure Fundamentals (AZ-900) – *In Progress*
-* Python Essential Training – LinkedIn Learning
-* SQL Essential Training – LinkedIn Learning
-* Cybersecurity Essentials – Cisco
-
-Full details available in `/certifications` and `/learning`.
+* 📧 **Email:** [nadir.tech.uk@gmail.com](mailto:nadir.tech.uk@gmail.com)
+* 💼 **LinkedIn:** [nadir-tech-uk](https://www.linkedin.com/in/nadir-tech-uk)
+* 🌐 **Portfolio/Projects:** See the [/projects](career/projects/) folder for my work.
 
 ---
-
-## 🤝 Why I Built This Publicly
-
-Instead of keeping my career scattered across CVs, notes, and platforms, I chose to:
-
-* Document my journey openly
-* Show consistency and accountability
-* Demonstrate how I think and learn
-* Make it easy for recruiters to understand my profile
-
-This repository reflects **how I work**, not just what I claim.
-
----
-
-## 📫 Get in Touch
-
-* 📧 Email: [nadir.tech.uk@gmail.com](mailto:nadir.tech.uk@gmail.com)
-* 💼 LinkedIn: [nadir-tech-uk](https://www.linkedin.com/in/nadir-tech-uk)
-
-Thanks for visiting — feel free to explore 🙌
+*Last Updated: February 2026*
