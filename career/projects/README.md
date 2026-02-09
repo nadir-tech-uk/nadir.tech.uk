@@ -23,24 +23,34 @@ This document provides an exhaustive technical breakdown of my professional and 
 
 ---
 
-### **2. Equipo Health Suite (4-App Ecosystem)**
-* **Apps:** *Equipo Engage (Patient)*, *Engage (Doctor/Staff)*, *Equipo Care*, and *Equipo Connect*
-* **Role:** Lead iOS & Android Developer
-* **Core Objective:** To bridge the gap between patients and providers through a secure, HIPAA-aligned communication and health-monitoring suite.
-* **Technical Deep-Dive:**
-    * **Real-Time Communication:** Integrated **WebRTC** and **Firebase Cloud Messaging (FCM)** to support high-definition video consultations and instant encrypted messaging.
-    * **Hardware Integration (IoT):** In *Equipo Connect*, I developed the interface for Bluetooth-enabled medical devices (e.g., Blood Glucometers), allowing automated health data syncing directly to the doctor's dashboard.
-    * **Modular Design:** Built a shared library of components to maintain a consistent UI/UX across four distinct applications while reducing code duplication by 40%.
-* **Key Achievements:**
-    * Enabled remote patient monitoring, significantly reducing in-person visit requirements for chronic care patients.
-    * Managed the end-to-end lifecycle: Designing, Development, Testing, Debugging, and Publishing to both App Store and Play Store.
-* **Stack:** Swift, Java, Android Studio, WebRTC, Firebase, Retrofit, Alamofire, GitHub, Postman, Swift, Objective-C, RESTful Json APIs using Alamofire, Firebase, Various SDK Integrations, third party pods, iOS, Xcode, Android, Android Studio, Java, RESTful Json APIs using Retrofit, GitHub, Postman, Swift, Objective-C, RESTful Json APIs using Alamofire, Firebase, Various SDK Integrations, third party pods, iOS, Xcode, Android, Android Studio, Java, RESTful Json APIs using Retrofit, GitHub, and Postman, iOS, Xcode, Swift, Objective-C, RESTful Json APIs using Alamofire, Firebase, Various SDK Integrations, Third party pods etc. Android, Android Studio, Java, RESTful Json APIs using Retrofit, Third party libraries.
-* **Reference:** 
-[Equipo Website](https://equipo.io)
-[Equipo Engage iOS App](https://apps.apple.com/us/app/equipo-engage)
-[Equipo Engage Android App](https://play.google.com/store/apps/details?id=com.equipo_engage)
-[Equipo Care App](https://apps.apple.com/us/app/equipo-care)
-[Equipo Care Android App](https://play.google.com/store/apps/details?id=com.physician.equipocare)
+### **2. Equipo Health Suite (Comprehensive 4-App Ecosystem)**
+**Role:** Lead iOS & Android Developer  
+**Core Objective:** A synchronized digital health ecosystem designed to facilitate secure communication, remote patient monitoring, and hardware-level health data integration.
+
+#### **a. Equipo Care – Patient Application (Android & iOS)**
+* **Purpose:** Serving as the primary patient portal, this app focuses on patient empowerment and adherence to care plans.
+* **Key Features:**
+    * **Secure Communication:** Implementation of real-time encrypted chat and HD video consultations for remote care.
+    * **Schedule Management:** Automated appointment reminders, medication trackers, and notification systems to improve patient compliance.
+* **Technical Highlights:** Integrated **Firebase Cloud Messaging (FCM)** for high-reliability push notifications across both operating systems.
+* **Links:** [Equipo.io](https://equipo.io) | [App Store](https://apps.apple.com/us/app/equipo-care) | [Play Store](https://play.google.com/store/apps/details?id=com.physician.equipocare)
+
+#### **b. Equipo Engage – Doctor & Staff Application (Android & iOS)**
+* **Purpose:** A practice management and clinical communication tool designed to streamline the workflows of healthcare providers.
+* **Key Features:**
+    * **Patient Triage:** Dynamic dashboards allowing doctors to view upcoming appointments and patient urgency status at a glance.
+    * **Multi-Channel Engagement:** Secure video calling and chat interfaces to conduct telehealth visits efficiently.
+* **Technical Highlights:** Optimized **WebRTC** protocols to ensure low-latency video streaming even in low-bandwidth clinical environments.
+* **Links:** [Equipo.io](https://equipo.io) | [App Store](https://apps.apple.com/us/app/equipo-engage) | [Play Store](https://play.google.com/store/apps/details?id=com.equipo_engage)
+
+#### **c. Equipo Connect – Health Device Integration App (Android & iOS)**
+* **Purpose:** The "IoT hub" of the suite, focused on gathering real-time diagnostic data from medical hardware.
+* **Key Features:**
+    * **Device Synchronization:** Seamlessly connects via Bluetooth/NFC to medical devices such as Blood Glucometers and Blood Pressure monitors.
+    * **Automated Reporting:** Eliminates manual entry by automatically uploading medical readings to the patient’s clinical record.
+    * **Alert System:** Automatically triggers high-priority alerts for doctors if transmitted data falls outside of safe parameters.
+* **Technical Highlights:** Developed custom Bluetooth Low Energy (BLE) handlers and used **Retrofit/Alamofire** to ensure secure, rapid data transmission to the backend.
+* **Links:** [Equipo.io](https://equipo.io)
 
 ---
 
@@ -95,6 +105,16 @@ This document provides an exhaustive technical breakdown of my professional and 
 
 ---
 
+### **7. SSW - Salesians in the Secular World**
+* **Role:** Android Developer
+* **Core Objective:** SSW is the fraternity of the sons of Don Bosco(alumni of Salesian formation houses) living the lay vocation in the Secular world. It is a gathering of the ex-Salesians and Aspirants who attended Salesian formation houses with a desire to follow Jesus in the Don Bosco way, but accepting God’s plan has responded to the lay vocation of leading family life in the world. SSW is a joyful & grateful witness- to the love and formation that we have received from Don Bosco.
+* **Technical Deep-Dive:**
+    * **Fintech Integration:** Implemented **Stripe** and **Braintree** payment gateways for subscription-based access to premium coaching content.
+* **Stack:** Java, Android Studio, Volley, Spotify SDK, Map Integrations, Stripe, SMS Gateways.
+* **Reference:** 
+
+---
+
 ## 🎓 Academic Research & Training Projects
 
 ### **NFC Tag Based Attendance System**
@@ -111,10 +131,16 @@ This document provides an exhaustive technical breakdown of my professional and 
 * **Stack:** ASP.NET, C#, Microsoft SQL Server.
 
 ### **Gym Management & Body Building**
-* **Type:** Internship Project (Grade: A+)
+* **Type:** BCA Capstone Project (6 Months)
 * **Focus:** Web-Based E-Learning
 * **Execution:** A management system for tracking facility operations, member billing, and fitness progress.
 * **Stack:** ASP.NET (C#), SQL Server 2008.
+
+### **Video Shoppe Management System**
+* **Type:** Academic Project (2 Months)
+* **Focus:** Web-Based E-Learning
+* **Execution:** A management system for tracking facility operations, member billing, and fitness progress.
+* **Stack:** Microsoft Visual Basic 6.0, SQL Server 2005.
 
 ---
 
